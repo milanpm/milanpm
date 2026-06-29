@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**milanpm/milanpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex K.
 
-Here are some ideas to get you started:
+## Machine Vision & Digital Image Processing Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have over 15 years of experience developing industrial and medical imaging software.
+
+### Interests
+
+- Machine Vision
+- Digital Image Processing
+- Industrial Imaging
+- Medical Imaging
+- Computer Vision
+- NIR Imaging
+- OpenCV
+- Python
+- C#
+
+### Currently Working On
+
+- DIPe (Digital Image Processing Expert)
+- jView (NIR Image Viewer)
+- OpenCV Examples
+- Machine Vision Portfolio
+
+### Learning
+
+- AI Vision
+- YOLO
+- Git & GitHub
+- Modern C++
+
+## Skills
+
+- Python
+- C#
+- OpenCV
+- Image Processing
+- Machine Vision
+- Industrial Imaging
+- Medical Imaging
+- Flask
