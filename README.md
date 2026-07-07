@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alex K.
+I'm Alex.
 
 ## Machine Vision & Digital Image Processing Engineer
 
@@ -13,7 +13,6 @@ I have over 15 years of experience developing industrial and medical imaging sof
 - Industrial Imaging
 - Medical Imaging
 - Computer Vision
-- NIR Imaging
 - OpenCV
 - Python
 - C#
@@ -21,7 +20,7 @@ I have over 15 years of experience developing industrial and medical imaging sof
 ### Currently Working On
 
 - DIPe (Digital Image Processing Expert)
-- jView (NIR Image Viewer)
+- jView (Image Viewer)
 - OpenCV Examples
 - Machine Vision Portfolio
 
